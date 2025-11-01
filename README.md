@@ -27,7 +27,10 @@ This repository contains implementations of various algorithms in JavaScript. Ea
 2. **Depth-First Search (DFS)** – O(V + E) – Explores as deep as possible using a stack/recursion
 
 ### Dynamic Programming
-- Coming soon...
+1. **Memoization** - O(n) to O(n²) depends on state – Caches recursive results to avoid recomputation
+2. **Tabulation** - O(n) to O(n²) depends on state – Builds solution iteratively from base cases
+3. **LCS** - O(n × m) – Finds longest subsequence common to two strings
+4. **Knapsack01** - O(n × W) – Maximize value with limited capacity (items either taken or not)
 
 ### Greedy Algorithms
 - Coming soon...
