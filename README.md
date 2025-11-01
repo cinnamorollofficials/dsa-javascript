@@ -40,36 +40,7 @@ This repository contains implementations of various algorithms in JavaScript. Ea
 5. **Prim's** – O(E log V) – Minimum Spanning Tree construction
 6. **Kruskal's** – O(E log E) – Minimum Spanning Tree using edges sorted by weight
 
-### Divide and Conquer
-- Coming soon...
 
-### String Algorithms
-- Coming soon...
-
-### Backtracking
-- Coming soon...
-
-### Bit Manipulation
-- Coming soon...
-
-## Getting Started
-
-Clone the repository:
-```sh
-git clone https://github.com/yourusername/algorithms-in-js.git
-cd algorithms-in-js
-```
-
-Run the JavaScript code:
-```sh
-node algorithm.js
-```
-
-## Example Usage
-```javascript
-const arr = [10, 20, 30, 40, 50];
-console.log(binarySearch(arr, 30)); // Output: 2
-```
 
 ## Contributing
 Feel free to fork this repository and submit pull requests for improvements!
