@@ -33,7 +33,12 @@ This repository contains implementations of various algorithms in JavaScript. Ea
 4. **Knapsack01** - O(n × W) – Maximize value with limited capacity (items either taken or not)
 
 ### Greedy Algorithms
-- Coming soon...
+1. **Activity Selection** - O(n log n) – Picks maximum non-overlapping intervals
+2. **Fractional Knapsack** - O(n log n) – Maximize value by taking fractional items
+3. **Hufman Coding** – O(n log n) – Builds optimal prefix code for compression
+4. **Dijkstra's** – O(E log V) – Shortest path in weighted graph
+5. **Prim's** – O(E log V) – Minimum Spanning Tree construction
+6. **Kruskal's** – O(E log E) – Minimum Spanning Tree using edges sorted by weight
 
 ### Divide and Conquer
 - Coming soon...
